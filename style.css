@@ -1,0 +1,26 @@
+* {
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+}
+
+#recetas {
+    font-size: large;
+}
+
+ul {
+    line-height: 2;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol,
+p {
+    line-height: 1.5;
+}
